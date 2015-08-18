@@ -1,9 +1,5 @@
 <?php
 
-define('COLOR_RED', false);
-define('COLOR_BLACK', true);
-
-
 $tree = new RBTree();
 
 for ($i = 0; $i < 1000; ++$i) {
